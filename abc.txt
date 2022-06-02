@@ -1,2 +1,0 @@
-Text file for ConfigMap testing
-text ajay
